@@ -6,7 +6,7 @@
 // http://w3cp.blogspot.com
 
 // https://github.com/w3cp/
-// https://github.com/w3cp/cp/function/sqrt.c
+// https://github.com/w3cp/cp/blob/master/function/sqrt.c
 
 
 #include <stdio.h>
